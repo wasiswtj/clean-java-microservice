@@ -1,4 +1,4 @@
-package ordersystem.domain.valueobject;
+package com.wasis.ordersystem.domain.valueobject;
 
 public abstract class BaseId<T> {
     private final T value;

@@ -1,4 +1,4 @@
-package ordersystem.domain.entity;
+package com.wasis.ordersystem.domain.entity;
 
 public abstract class BaseEntity<ID> {
     private ID id;

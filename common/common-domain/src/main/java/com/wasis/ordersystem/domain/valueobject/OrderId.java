@@ -1,4 +1,4 @@
-package ordersystem.domain.valueobject;
+package com.wasis.ordersystem.domain.valueobject;
 
 import java.util.UUID;
 
