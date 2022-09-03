@@ -1,4 +1,4 @@
-package com.wasis;
+package com.wasis.ordersystem;
 
 /**
  * Hello world!

@@ -5,10 +5,10 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<artifactId>clean-java-microservice</artifactId>
-		<groupId>com.wasis</groupId>
+		<groupId>com.wasis.ordersystem</groupId>
 		<version>1.0-SNAPSHOT</version>
 	</parent>
-	<groupId>com.wasis</groupId>
+	<groupId>com.wasis.ordersystem</groupId>
 	<artifactId>common</artifactId>
 	<version>1.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
